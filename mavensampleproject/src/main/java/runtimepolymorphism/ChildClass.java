@@ -7,7 +7,7 @@ public class ChildClass  extends ParentClass{
 		ChildClass obj=new ChildClass();
 		obj.show();
 		
-		//Upcasting
+		//Upcasting 
 		ParentClass p=new ChildClass();
 		p.show();
 		

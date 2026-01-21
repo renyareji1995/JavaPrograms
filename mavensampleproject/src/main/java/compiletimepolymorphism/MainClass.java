@@ -11,7 +11,7 @@ public class MainClass {
 	}
 
 	
-	public void display() {
+	 public void display() {
 		
 		System.out.println("Compile time polymorphism");
 	}
